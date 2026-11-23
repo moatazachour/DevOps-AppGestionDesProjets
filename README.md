@@ -227,3 +227,5 @@ pipeline {
 ## 👤 Auteur
 
 **ESPRIT — UP ASI**  # test webhook
+
+Pipeline demo: 2026-11-23 16:29
